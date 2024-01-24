@@ -1,0 +1,26 @@
+.container
+{
+    background-image:linear-gradient(to top,rgb(37, 134, 175),rgb(245, 98, 122));
+    font-family: cursive;
+    border: 3px solid black;
+}
+.head
+{
+    text-align: center;
+    color:turquoise;
+    text-shadow: 3px 3px gray;
+}
+.card
+{
+    margin:50px;
+    border:3px groove black;
+}
+.card-img-top
+{
+    border: 3px solid skyblue;
+}
+
+.butt:hover
+{
+    background-color:aqua;
+}
