@@ -1,3 +1,13 @@
+
+
+
+
+
+![Screenshot (372)](https://github.com/swathimuneeswaran/React-Task-2/assets/113039047/39163f70-4bc7-4271-95b8-c4d892e71b84)
+
+This website is like shopping cart and it is build using react.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
